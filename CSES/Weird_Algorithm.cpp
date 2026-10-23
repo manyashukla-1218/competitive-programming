@@ -1,0 +1,30 @@
+/*
+Problem: Weird Algorithm
+Platform: CSES
+URL: https://cses.fi/problemset/task/1068/
+
+Approach: Simulation (If-Else + While Loop)
+Time Complexity: O(k), where k is the number of steps
+Space Complexity: O(1)
+*/
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+    long long n;
+    cin >> n;
+    cout << n;
+
+    while(n != 1){
+        if(n % 2 == 0){
+            n = n/2;
+        }
+        else{
+            n = 3*n + 1;
+        }
+
+        cout << " " << n;
+    }
+   
+    return 0;
+}
