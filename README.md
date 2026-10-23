@@ -19,7 +19,8 @@ preparing for **coding interviews and contests**.
 
 - LeetCode : https://leetcode.com/u/manyashukla___/
 - GeeksforGeeks : https://www.geeksforgeeks.org/profile/manyashukw4jc
-- Codeforces : https://codeforces.com/profile/login  
+- Codeforces : https://codeforces.com/profile/login
+- CSES : https://cses.fi/user/517873
 
 ---
 
